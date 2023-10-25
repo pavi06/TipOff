@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779315429306",
+    "project_id": "hintus-66667",
+    "storage_bucket": "hintus-66667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779315429306:android:97d8ac407db8c5602ce783",
+        "android_client_info": {
+          "package_name": "com.hintus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779315429306-np0f77jd33m19u8flhmr2bigu0k652gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzdmIQBQShZxa3LEruvBIyZ209j30wxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779315429306-np0f77jd33m19u8flhmr2bigu0k652gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
